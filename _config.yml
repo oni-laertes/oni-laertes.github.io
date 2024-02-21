@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Kaoushi's days
+title: K'shi days
 
 # Your name to show in the footer
-author: Kaoushi
+author: K'shi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -47,8 +47,8 @@ round-avatar: true
 social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
-#  github: daattali
+#  facebook:
+#  github:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
